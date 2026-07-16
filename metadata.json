@@ -1,0 +1,6 @@
+{
+  "name": "Weather App",
+  "description": "A elegant single-page Weather Application with glassmorphic cards and dynamic, weather-reactive gradient backgrounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
